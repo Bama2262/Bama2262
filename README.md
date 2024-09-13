@@ -1,31 +1,21 @@
-# Hey there! I'm Bama Maulana Wibisana 👋
+# Hi there, I'm Bama Maulana Wibisana 👋
 
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+## About Me
+I'm a **Software Development and Game Programming student** at **SMKN 1 Cianjur (SMKzie)**, passionate about coding, problem-solving, and bringing ideas to life through technology.
 
-I'm a **PPLG student** (Software & Game Dev) at **SMKN 1 Cianjur** 🎓. I love coding and playing around with new tech. When I'm not busy writing code, you'll probably find me exploring game mechanics or leveling up in my favorite games 🎮!
+- 🔭 Currently working on: **Platformer Game Project**
+- 🌱 Learning: **Game Development**, and improving my **Problem-Solving Skills**.
+- ⚡ Fun fact: I hit the gym 💪 when I'm not coding!
 
-## 💻 A Little Bit About Me
-- 🧠 Currently learning **Python**
-- 👾 I enjoy building games, especially platformers!
-- 🌱 Trying to master the art of responsive web design and clean code
-- 🏋️‍♂️ Also, trying to balance coding with some gym sessions 💪
+## 🔧 Technologies & Tools
+- Programming Languages: **Python**
+- Game Development: **Construct 2**
+- Version Control: **Git, GitHub**
 
-## 🚀 Skills & Tools
-- **Languages**: Python
-- **Game Dev**: Construct 2
-- **Frameworks & Libraries**: -
-- **Design**: Photoshop
-- **Tools**: Git & GitHub, Visual Studio Code
+## 📫 How to reach me
+- Email: bamamaulana2036@gmail.com
+- TikTok: [My TikTok Account](https://www.tiktok.com/@ruka.7852_?_t=8phRCbEinBv&_r=1)
+- Instagram: [My Instagram Account](https://www.instagram.com/ruka.7852_?igsh=MXZ2N2k2azk0MXFnaQ==)
 
-## 📊 GitHub Stats (for all the nerds out there 🤓)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
-## 🌟 Fun Stuff & Badges
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
-
----
-
-_"Code like a boss, game like a pro!"_ 😎
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
