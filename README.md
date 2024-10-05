@@ -13,9 +13,9 @@ I'm a **Software Development and Game Programming student** at **SMKN 1 Cianjur 
 - Version Control: **Git, GitHub**
 
 ## 📫 How to reach me
-- Email: bamamaulana2036@gmail.com
-- TikTok: [My TikTok Account](https://www.tiktok.com/@ruka.7852_?_t=8phRCbEinBv&_r=1)
-- Instagram: [My Instagram Account](https://www.instagram.com/ruka.7852_?igsh=MXZ2N2k2azk0MXFnaQ==)
+- Email: [My Email](bamamaulana2036@gmail.com)
+- TikTok: [My TikTok](https://www.tiktok.com/@ruka.7852_?_t=8phRCbEinBv&_r=1)
+- Instagram: [My Instagram](https://www.instagram.com/ruka.7852_?igsh=MXZ2N2k2azk0MXFnaQ==)
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
